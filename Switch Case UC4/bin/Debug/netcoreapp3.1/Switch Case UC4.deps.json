@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Switch Case UC4/1.0.0": {
+        "runtime": {
+          "Switch Case UC4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Switch Case UC4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

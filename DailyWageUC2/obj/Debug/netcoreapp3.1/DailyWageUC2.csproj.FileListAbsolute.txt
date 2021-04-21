@@ -1,0 +1,13 @@
+C:\Users\soham\source\repos\EmployeeAssignment\DailyWageUC2\bin\Debug\netcoreapp3.1\DailyWageUC2.exe
+C:\Users\soham\source\repos\EmployeeAssignment\DailyWageUC2\bin\Debug\netcoreapp3.1\DailyWageUC2.deps.json
+C:\Users\soham\source\repos\EmployeeAssignment\DailyWageUC2\bin\Debug\netcoreapp3.1\DailyWageUC2.runtimeconfig.json
+C:\Users\soham\source\repos\EmployeeAssignment\DailyWageUC2\bin\Debug\netcoreapp3.1\DailyWageUC2.runtimeconfig.dev.json
+C:\Users\soham\source\repos\EmployeeAssignment\DailyWageUC2\bin\Debug\netcoreapp3.1\DailyWageUC2.dll
+C:\Users\soham\source\repos\EmployeeAssignment\DailyWageUC2\bin\Debug\netcoreapp3.1\DailyWageUC2.pdb
+C:\Users\soham\source\repos\EmployeeAssignment\DailyWageUC2\obj\Debug\netcoreapp3.1\DailyWageUC2.csprojAssemblyReference.cache
+C:\Users\soham\source\repos\EmployeeAssignment\DailyWageUC2\obj\Debug\netcoreapp3.1\DailyWageUC2.AssemblyInfoInputs.cache
+C:\Users\soham\source\repos\EmployeeAssignment\DailyWageUC2\obj\Debug\netcoreapp3.1\DailyWageUC2.AssemblyInfo.cs
+C:\Users\soham\source\repos\EmployeeAssignment\DailyWageUC2\obj\Debug\netcoreapp3.1\DailyWageUC2.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\EmployeeAssignment\DailyWageUC2\obj\Debug\netcoreapp3.1\DailyWageUC2.dll
+C:\Users\soham\source\repos\EmployeeAssignment\DailyWageUC2\obj\Debug\netcoreapp3.1\DailyWageUC2.pdb
+C:\Users\soham\source\repos\EmployeeAssignment\DailyWageUC2\obj\Debug\netcoreapp3.1\DailyWageUC2.genruntimeconfig.cache

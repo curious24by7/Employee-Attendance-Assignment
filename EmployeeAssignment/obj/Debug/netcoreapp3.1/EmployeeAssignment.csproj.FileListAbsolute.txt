@@ -1,0 +1,13 @@
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeeAssignment\obj\Debug\netcoreapp3.1\EmployeeAssignment.csprojAssemblyReference.cache
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeeAssignment\obj\Debug\netcoreapp3.1\EmployeeAssignment.AssemblyInfoInputs.cache
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeeAssignment\obj\Debug\netcoreapp3.1\EmployeeAssignment.AssemblyInfo.cs
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeeAssignment\obj\Debug\netcoreapp3.1\EmployeeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeeAssignment\bin\Debug\netcoreapp3.1\EmployeeAssignment.exe
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeeAssignment\bin\Debug\netcoreapp3.1\EmployeeAssignment.deps.json
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeeAssignment\bin\Debug\netcoreapp3.1\EmployeeAssignment.runtimeconfig.json
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeeAssignment\bin\Debug\netcoreapp3.1\EmployeeAssignment.runtimeconfig.dev.json
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeeAssignment\bin\Debug\netcoreapp3.1\EmployeeAssignment.dll
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeeAssignment\bin\Debug\netcoreapp3.1\EmployeeAssignment.pdb
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeeAssignment\obj\Debug\netcoreapp3.1\EmployeeAssignment.dll
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeeAssignment\obj\Debug\netcoreapp3.1\EmployeeAssignment.pdb
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeeAssignment\obj\Debug\netcoreapp3.1\EmployeeAssignment.genruntimeconfig.cache

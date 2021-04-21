@@ -1,0 +1,12 @@
+C:\Users\soham\source\repos\EmployeeAssignment\Switch Case UC4\bin\Debug\netcoreapp3.1\Switch Case UC4.exe
+C:\Users\soham\source\repos\EmployeeAssignment\Switch Case UC4\bin\Debug\netcoreapp3.1\Switch Case UC4.deps.json
+C:\Users\soham\source\repos\EmployeeAssignment\Switch Case UC4\bin\Debug\netcoreapp3.1\Switch Case UC4.runtimeconfig.json
+C:\Users\soham\source\repos\EmployeeAssignment\Switch Case UC4\bin\Debug\netcoreapp3.1\Switch Case UC4.runtimeconfig.dev.json
+C:\Users\soham\source\repos\EmployeeAssignment\Switch Case UC4\bin\Debug\netcoreapp3.1\Switch Case UC4.dll
+C:\Users\soham\source\repos\EmployeeAssignment\Switch Case UC4\bin\Debug\netcoreapp3.1\Switch Case UC4.pdb
+C:\Users\soham\source\repos\EmployeeAssignment\Switch Case UC4\obj\Debug\netcoreapp3.1\Switch Case UC4.AssemblyInfoInputs.cache
+C:\Users\soham\source\repos\EmployeeAssignment\Switch Case UC4\obj\Debug\netcoreapp3.1\Switch Case UC4.AssemblyInfo.cs
+C:\Users\soham\source\repos\EmployeeAssignment\Switch Case UC4\obj\Debug\netcoreapp3.1\Switch Case UC4.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\EmployeeAssignment\Switch Case UC4\obj\Debug\netcoreapp3.1\Switch Case UC4.dll
+C:\Users\soham\source\repos\EmployeeAssignment\Switch Case UC4\obj\Debug\netcoreapp3.1\Switch Case UC4.pdb
+C:\Users\soham\source\repos\EmployeeAssignment\Switch Case UC4\obj\Debug\netcoreapp3.1\Switch Case UC4.genruntimeconfig.cache

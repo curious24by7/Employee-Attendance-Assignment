@@ -1,0 +1,12 @@
+C:\Users\soham\source\repos\EmployeeAssignment\WagesForMonthUC5\bin\Debug\netcoreapp3.1\WagesForMonthUC5.exe
+C:\Users\soham\source\repos\EmployeeAssignment\WagesForMonthUC5\bin\Debug\netcoreapp3.1\WagesForMonthUC5.deps.json
+C:\Users\soham\source\repos\EmployeeAssignment\WagesForMonthUC5\bin\Debug\netcoreapp3.1\WagesForMonthUC5.runtimeconfig.json
+C:\Users\soham\source\repos\EmployeeAssignment\WagesForMonthUC5\bin\Debug\netcoreapp3.1\WagesForMonthUC5.runtimeconfig.dev.json
+C:\Users\soham\source\repos\EmployeeAssignment\WagesForMonthUC5\bin\Debug\netcoreapp3.1\WagesForMonthUC5.dll
+C:\Users\soham\source\repos\EmployeeAssignment\WagesForMonthUC5\bin\Debug\netcoreapp3.1\WagesForMonthUC5.pdb
+C:\Users\soham\source\repos\EmployeeAssignment\WagesForMonthUC5\obj\Debug\netcoreapp3.1\WagesForMonthUC5.AssemblyInfoInputs.cache
+C:\Users\soham\source\repos\EmployeeAssignment\WagesForMonthUC5\obj\Debug\netcoreapp3.1\WagesForMonthUC5.AssemblyInfo.cs
+C:\Users\soham\source\repos\EmployeeAssignment\WagesForMonthUC5\obj\Debug\netcoreapp3.1\WagesForMonthUC5.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\EmployeeAssignment\WagesForMonthUC5\obj\Debug\netcoreapp3.1\WagesForMonthUC5.dll
+C:\Users\soham\source\repos\EmployeeAssignment\WagesForMonthUC5\obj\Debug\netcoreapp3.1\WagesForMonthUC5.pdb
+C:\Users\soham\source\repos\EmployeeAssignment\WagesForMonthUC5\obj\Debug\netcoreapp3.1\WagesForMonthUC5.genruntimeconfig.cache

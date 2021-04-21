@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EmployeePartTime UC3/1.0.0": {
+        "runtime": {
+          "EmployeePartTime UC3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeePartTime UC3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

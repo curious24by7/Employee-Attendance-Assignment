@@ -1,0 +1,13 @@
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeePartTime UC3\bin\Debug\netcoreapp3.1\EmployeePartTime UC3.exe
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeePartTime UC3\bin\Debug\netcoreapp3.1\EmployeePartTime UC3.deps.json
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeePartTime UC3\bin\Debug\netcoreapp3.1\EmployeePartTime UC3.runtimeconfig.json
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeePartTime UC3\bin\Debug\netcoreapp3.1\EmployeePartTime UC3.runtimeconfig.dev.json
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeePartTime UC3\bin\Debug\netcoreapp3.1\EmployeePartTime UC3.dll
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeePartTime UC3\bin\Debug\netcoreapp3.1\EmployeePartTime UC3.pdb
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeePartTime UC3\obj\Debug\netcoreapp3.1\EmployeePartTime UC3.csprojAssemblyReference.cache
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeePartTime UC3\obj\Debug\netcoreapp3.1\EmployeePartTime UC3.AssemblyInfoInputs.cache
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeePartTime UC3\obj\Debug\netcoreapp3.1\EmployeePartTime UC3.AssemblyInfo.cs
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeePartTime UC3\obj\Debug\netcoreapp3.1\EmployeePartTime UC3.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeePartTime UC3\obj\Debug\netcoreapp3.1\EmployeePartTime UC3.dll
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeePartTime UC3\obj\Debug\netcoreapp3.1\EmployeePartTime UC3.pdb
+C:\Users\soham\source\repos\EmployeeAssignment\EmployeePartTime UC3\obj\Debug\netcoreapp3.1\EmployeePartTime UC3.genruntimeconfig.cache
